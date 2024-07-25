@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://xboardbe.echon.top
+window.routerBase = 'https://xboardbe.echon.top/'
 window.settings = {
   // 站点名称
   title: 'Xboard',
