@@ -4,7 +4,7 @@ window.settings = {
   // 站点名称
   title: 'Xboard',
   // 站点描述
-  description: 'Xboard',
+  description: 'Echon Servers',
   assets_path: '/assets',
   // 主题色
   theme: {
