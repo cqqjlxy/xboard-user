@@ -2,7 +2,7 @@
 window.routerBase = 'https://xboardbe.echon.top/'
 window.settings = {
   // 站点名称
-  title: 'Xboard',
+  title: 'Echon Servers',
   // 站点描述
   description: 'Echon Servers',
   assets_path: '/assets',
